@@ -1,6 +1,5 @@
 # Project Name
-  some data  
-  another data  
+  some project description   
 ## Overview
 
 ## Problem Statement
